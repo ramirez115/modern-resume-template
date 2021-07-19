@@ -9,23 +9,23 @@ version: 2
 name: Matthew Ramirez
 title: DevOps Intern
 email: email@email.com
-website: www.github.com/ramirez115/modern-resume-template
+website: ramirez115.github.io//modern-resume-template
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  ramirez115
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
